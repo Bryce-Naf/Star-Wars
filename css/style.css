@@ -92,3 +92,19 @@ body {
 .subheader_page2 {
     color: darkgreen;
 }
+
+#page2_body {
+    background-color: silver;
+}
+
+#main_section_page2 {
+    background-color: pink;
+    border: 1px solid black;
+    padding: 10px; 
+}
+
+#body_section_page2 {
+    background-color: orange;
+    border: 1px solid black;
+    padding: 10px;
+}
