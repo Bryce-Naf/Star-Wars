@@ -12,6 +12,13 @@ img {
 
 h3 {
     text-align: center;
-    color: rgb(199, 2, 2)
+    color: maroon;
 }
 
+body {
+    background-color: gray;
+}
+
+* {
+    font-family: papyrus;
+}
