@@ -28,8 +28,44 @@ body {
 }
 
 #movies {
-    width: 50%;
-    background-color: lightblue;
+    background-color: lightgreen;
     border: 1px solid black;
     padding: 10px;
+}
+
+#new_hope_box {
+  display: flex;
+  justify-content: space-around;
+  padding: 0;
+  margin: 0;
+  background-color: lightblue;
+  border: 1px solid black;
+}
+
+#rogue_one_box {
+    display: flex;
+  justify-content: space-around;
+  padding: 0;
+  margin: 0;
+  background-color: lightyellow;
+  border: 1px solid black;
+}
+
+#empire_box {
+    display: flex;
+  justify-content: space-around;
+  padding: 0;
+  margin: 0;
+  background-color: lavender;
+  border: 1px solid black;
+}
+
+#footer {
+    display: flex;
+  justify-content: space-around;
+  padding: 0;
+  margin: 0;
+  background-color: black;
+  border: 1px solid black;
+  color: yellow;
 }
