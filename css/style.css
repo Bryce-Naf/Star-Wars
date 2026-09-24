@@ -27,6 +27,11 @@ body {
     font-size: 25px;
 }
 
+.body_text {
+    font-size: 15px;
+    color: darkblue;
+}
+
 #movies {
     background-color: lightgreen;
     border: 1px solid black;
