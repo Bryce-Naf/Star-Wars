@@ -1,43 +1,44 @@
+/*Changed header color*/
 header {
     background-color: black;
     color: yellow;
     text-align: center;
 }
-
+/*Cleaned up images*/
 img {
     display: block;
     margin: auto;
     border-radius: 10px;
 }
-
+/*Adjusted subheadings*/
 h3 {
     text-align: center;
     color: maroon;
 }
-
+/*Changed background color*/
 body {
     background-color: gray;
 }
-
+/*Changed font*/
 * {
     font-family: papyrus;
 }
-
+/*Changed subheader size*/
 .subheader {
     font-size: 25px;
 }
-
+/*Cleaned up main text*/
 .body_text {
     font-size: 15px;
     color: darkblue;
 }
-
+/*Made a section for the movies*/
 #movies {
     background-color: lightgreen;
     border: 1px solid black;
     padding: 10px;
 }
-
+/*New Hope section*/
 #new_hope_box {
   display: flex;
   justify-content: space-around;
@@ -46,7 +47,7 @@ body {
   background-color: lightblue;
   border: 1px solid black;
 }
-
+/*Rogue One section*/
 #rogue_one_box {
     display: flex;
   justify-content: space-around;
@@ -55,7 +56,7 @@ body {
   background-color: lightyellow;
   border: 1px solid black;
 }
-
+/*Empire section*/
 #empire_box {
     display: flex;
   justify-content: space-around;
@@ -64,7 +65,7 @@ body {
   background-color: lavender;
   border: 1px solid black;
 }
-
+/*Flexbox footer*/
 #footer {
     display: flex;
   justify-content: space-around;
@@ -74,11 +75,11 @@ body {
   border: 1px solid black;
   color: yellow;
 }
-
+/*Cleaned up header on page 2*/
 #page2_header {
     color: rgb(0, 159, 238);
 }
-
+/*Flexbox footer on page 2*/
 #footer_page2 {
     display: flex;
   justify-content: space-around;
@@ -88,21 +89,21 @@ body {
   border: 1px solid black;
   color: rgb(0, 159, 238);
 }
-
+/*Cleaned up page 2 subheaders*/
 .subheader_page2 {
     color: darkgreen;
 }
-
+/*Background color change for page 2*/
 #page2_body {
     background-color: silver;
 }
-
+/*Cleaned up the main section of page 2*/
 #main_section_page2 {
     background-color: pink;
     border: 1px solid black;
     padding: 10px; 
 }
-
+/*Added color and separation for the other section of page 2*/
 #body_section_page2 {
     background-color: orange;
     border: 1px solid black;
