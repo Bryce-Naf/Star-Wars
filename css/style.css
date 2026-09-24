@@ -22,3 +22,14 @@ body {
 * {
     font-family: papyrus;
 }
+
+.subheader {
+    font-size: 25px;
+}
+
+#movies {
+    width: 50%;
+    background-color: lightblue;
+    border: 1px solid black;
+    padding: 10px;
+}
